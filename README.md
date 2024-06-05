@@ -11,10 +11,46 @@ Data for KLoB: a Benchmark for Assessing Knowledge Locating Methods in Language 
 ### KLoB-u
   "extirpation sensa subiodide conquedle spikebill drabbish unvalidating becuiba _"
 
-```
-> *<mark>Internal design by Christabella Designs</mark>*
->
-> *<mark>Internal design by Christabella Designs</mark>*
-```
+
+#### 1. 去除封皮，版权页，目录等元信息
+
+***
+
+>~~*First published in 2015*~~
 > 
-> ~~*Internal design by Christabella Designs*~~
+>~~*Allen & Unwin*~~
+> 
+>~~*83 Alexander Street*~~
+> 
+>~~*Crows Nest NSW 2065*~~
+> 
+>~~*Australia*~~
+> 
+>~~*Phone: (61 2) 8425 0100*~~
+> 
+>~~*Cataloguing-in-Publication details are available from the National Library of Australia*~~
+> 
+>~~*ISBN 978 1 74331 9208*~~
+> 
+>~~*eISBN 978 1 74343 637 0*~~
+> 
+>~~*Internal design by Christabella Designs*~~
+> 
+>~~*Typeset by Post Pre-press Group, Australia*~~
+> 
+>~~*Extracts from The Kite Runner by Khaled Hosseini © Bloomsbury Publishing UK*~~
+> 
+>~~*CONTENTS*~~
+> 
+>~~*ZARA*~~
+> 
+>~~*LILI*~~
+> 
+>~~*EVE*~~
+> 
+>...
+> 
+>*Zara*
+> 
+>*She was standing at the end of the hall in the late afternoon light, her back arched against the wall, between two landscape paintings. Closing her eyes, she ran her hands up and down the red dress clinging to her curves. The dress had been designed by a genius. Its neckline was low enough to be provocative, but the hemline was below knee-length—too long for Leo, the husband of our hostess, to …*
+___
