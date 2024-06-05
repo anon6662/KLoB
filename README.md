@@ -15,3 +15,4 @@ Data for KLoB: a Benchmark for Assessing Knowledge Locating Methods in Language 
 > *<mark>Internal design by Christabella Designs</mark>*
 
 > *<mark>Internal design by Christabella Designs</mark>*
+> *Internal design by Christabella Designs*
